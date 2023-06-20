@@ -4,8 +4,8 @@
 
 ![Image](/images/web1.png?row=true)
 
-## The app is currently deployed using AWS service through the following link:
-[Website!](http://54.167.146.102:8000/)
+## Deployed through AWS service:
+Current address : [Website!](http://54.167.146.102:8000/)
 
 
 ## Instruction of running news_recommender app locally 
@@ -31,7 +31,6 @@ Go to http://127.0.0.1:8000/ on your browser to check the website
 
 
 
-## How this app works!
 
 
 
