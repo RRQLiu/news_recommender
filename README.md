@@ -2,7 +2,7 @@
 
 ## Look of the Web 
 
-![Website Page //](https://github.com/RRQLiu/news_recommender/tree/main/images/web1.png)
+![Alt text](https://github.com/RRQLiu/news_recommender/tree/main/images/web1.png)
 
 ## The app is avaliable through this IP: 
 
