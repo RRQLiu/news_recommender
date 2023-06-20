@@ -5,7 +5,7 @@
 ![Image](/images/web1.png?row=true)
 
 ## The app is currently deployed using AWS service through the following link:
-![SuperLink Version](http://54.167.146.102:8000/ "SuperLink Version"))
+[Website!](http://54.167.146.102:8000/)
 
 
 ## Instruction of running news_recommender app locally 
