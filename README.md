@@ -2,6 +2,8 @@
 
 ## Look of the Web 
 
+![Website Page //](https://github.com/RRQLiu/news_recommender/blob/main/web1.png?raw=true)
+
 ## The app is avaliable through this IP: 
 
 ## Instruction of running news_recommender app locally 
