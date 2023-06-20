@@ -1,10 +1,12 @@
-# News Recommender Website
+# News Recommendation Website
 
-## Look of the Web 
+## The Website 
 
-![ScreenShot](/images/web1.png)
+![Image](/images/web1.png?row=true)
 
-## The app is avaliable through this IP: 
+## The app is currently deployed using AWS service through the following link:
+![SuperLink Version](http://54.167.146.102:8000/)
+
 
 ## Instruction of running news_recommender app locally 
 
